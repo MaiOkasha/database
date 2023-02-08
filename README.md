@@ -1,4 +1,4 @@
-# database
+# Notes app using database
 
 A new Flutter project.
 
